@@ -11,7 +11,7 @@ Auto Jobs Applier AI Hawk is an advanced AI-driven tool designed to automate and
 - **AI-based Job Finder**  
   Matches candidates with job opportunities using LLMs.  
 
-- **Customized Resume Builder**  
+- **Customized Resume Builder**faeffk 
   Creates ATS-friendly resumes tailored to specific job descriptions using generative AI.  
 
 - **Automated Job Applications**  
